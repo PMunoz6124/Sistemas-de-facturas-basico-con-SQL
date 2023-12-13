@@ -1,6 +1,8 @@
 # Sistemas-de-facturas-basico-con-SQL
 Un sistema bastante basico en el cual se ingresan los datos de la factura por consola y al terminar se agregan al SQL
 si usas Xampp crea una tabla o usa la siguiente
+
+
 CREATE DATABASE IF NOT EXISTS Ventas;
 USE Ventas;
 
